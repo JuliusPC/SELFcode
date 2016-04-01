@@ -12,6 +12,10 @@ sh:)
 
 - Developer.
 
+sh:]
+
+- Vereinsmitglied
+
 sh:|
 
 - Featureartikelschreiber.
@@ -45,6 +49,8 @@ fo:{
 fo:§
 
 - Ich komme nur, um meine Erfolge bei Gericht feiern zu lassen.
+
+> Seitenhieb auf Gravenreuth?
 
 fo:#
 
@@ -130,6 +136,10 @@ br:$
 
 - IE-Benutzer.
 
+br:€
+
+- Edge-Nutzer
+
 br:>
 
 - Gecko (Mozilla, etc.)
@@ -137,6 +147,26 @@ br:>
 br:<
 
 - Opera.
+
+br:=
+
+- Opera-Klon (Vivaldi, Otter)
+
+br:|
+
+-Firefx
+
+br:°
+
+- Chrome / Chromium
+
+br:"
+
+- Safari
+
+br:-
+
+- Seamonkey
 
 br:^
 
@@ -166,57 +196,7 @@ br:?
 
 - Duscholux.
 
-#### Internet Explorer
-
-ie:}
-
-- Ich bin absoluter Fan. Ich habe alle Sicherheitseinstellungen minimiert und vollstes Vertrauen. Ich liebe Microsoft. Alternative Browser sind nur für anarchistische Idioten.
-
-ie:)
-
-- Ich benutze den Internet Explorer, weil er der beste Browser ist.
-
-ie:|
-
-- Ich benutze ihn ohne irgendwelche Hintergedanken.
-
-ie:(
-
-- Ein schlechter Browser.
-
-ie:{
-
-- Dieses Stück Programmcode ist gemeingefährlich. Jeder, der so etwas wissentlich verbreitet, ist ein potentieller Schwerverbrecher.
-
-ie:%
-
-- Der Marktanteil ist - gemessen an der Qualität - nicht gerechtfertigt und gefährlich.
-
-#### Mozilla
-
-mo:}
-
-- Mozilla hat mein Leben verändert.
-
-mo:)
-
-- Mozilla ist der beste Browser.
-
-mo:|
-
-- Nicht schlecht, aber Opera ist besser.
-
-mo:(
-
-- Definitiv kein guter Browser.
-
-mo:{
-
-- Gutmensch-Browser für weltfremde Spinner.
-
-mo:?
-
-- Es heißt »Godzilla«.
+> Referenz auf den Hersteller von _Dusch-Brausen_?
 
 ### Seitengestaltung
 
@@ -276,6 +256,24 @@ de:?
 
 - Keine Ahnung.
 
+#### vereinfachte Auszeichnungssprachen
+
+as:#
+
+- Wieso? HTML reicht doch vollkommen aus!
+
+as:*
+
+- Markdown und Dialekte
+
+as:[
+
+- BBCode
+
+as:"
+
+- Textile
+
 #### JavaScript
 
 js:}
@@ -311,7 +309,6 @@ zu:)
 zu:|
 
 - Sicher überlegenswert.
-
 
 zu:(
 
@@ -404,6 +401,14 @@ ls:µ
 
 - Assembler.
 
+ls:>
+
+- Ruby
+
+ls:*
+
+- Python
+
 ls:/
 
 - JSP.
@@ -430,7 +435,100 @@ ls:?
 
 ## Veraltete Elemente
 
-Die hier aufgezählten Elemente gehören zwar zur offiziellen Spezifikation, werden  aber als veraltet eingestuft. Selfcode-Paarser sollteen sie aus Gründen dder  Abwäärttskomppatiibilität noch verstehen.
+Die hier aufgezählten Elemente gehören zwar zur offiziellen Spezifikation, werden  aber als veraltet eingestuft. Selfcode-Paarser sollten sie aus Gründen dder  Abwärtskompatibilität noch verstehen.
+
+#### Internet Explorer
+
+ie:}
+
+- Ich bin absoluter Fan. Ich habe alle Sicherheitseinstellungen minimiert und vollstes Vertrauen. Ich liebe Microsoft. Alternative Browser sind nur für anarchistische Idioten.
+
+ie:)
+
+- Ich benutze den Internet Explorer, weil er der beste Browser ist.
+
+ie:|
+
+- Ich benutze ihn ohne irgendwelche Hintergedanken.
+
+ie:(
+
+- Ein schlechter Browser.
+
+ie:{
+
+- Dieses Stück Programmcode ist gemeingefährlich. Jeder, der so etwas wissentlich verbreitet, ist ein potentieller Schwerverbrecher.
+
+ie:%
+
+- Der Marktanteil ist - gemessen an der Qualität - nicht gerechtfertigt und gefährlich.
+
+#### Mozilla
+
+mo:}
+
+- Mozilla hat mein Leben verändert.
+
+mo:)
+
+- Mozilla ist der beste Browser.
+
+mo:|
+
+- Nicht schlecht, aber Opera ist besser.
+
+mo:(
+
+- Definitiv kein guter Browser.
+
+mo:{
+
+- Gutmensch-Browser für weltfremde Spinner.
+
+mo:?
+
+- Es heißt »Godzilla«.
+
+#### Netscape 4
+
+n4:}
+
+- Netscape 4 ist die große Liebe meines Lebens. Ich schicke den Entwicklern zu ihren Geburtstagen Blumen. Ich heule bei den neuesten Statistiken.
+
+n4:)
+
+- Ich benutze ihn, weil er immer noch der beste ist. Dieses primitive Bashing ist nur lächerlich.
+
+n4:|
+
+- Ich muss ihn gelegentlich benutzen, weil er immer noch besser als IE ist. Die Webmaster kann ich zwar verstehen, aber nett finde ich es nicht.
+
+n4:(
+
+- Netscape 4 ist ein Horror.
+
+n4:{
+
+- Benutzer dieses Browsers sind Wirtschaftsschädlinge, Verrückte oder Rechthaber. Netscape 4 sollte baldestmöglich behördlich verboten werden. Meine Seiten lassen diesen Schrott automatisch abstürzen.
+
+n4:°
+
+- Besonders erfreut bin ich nicht, aber ich muss eben die Seiten anpassen.
+
+n4:#
+
+    SCHEIßBRAUSER!!!11
+n4:~
+
+-Dieser Religionskrieg ist doch lächerlich.
+
+n4:&
+
+- Eine optimale Version sollte keiner erwarten, aber man sollte diesen Browser berücksichtigen.
+
+n4:?
+
+- Netwas?
 
 ## Verwendung
 ### Umfang
