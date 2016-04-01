@@ -24,6 +24,32 @@ sh:(
 
 - Ich habe nichts damit zu tun.
 
+#### Das Wiki
+
+sw:*
+
+- Ich bin das Wiki – Gefühlt die Hälfte aller Seiten wurde bereits von mir überarbeitet oder sogar angelegt!
+
+sw:)
+
+- regelmäßiger Verbesserer des Wikis
+
+sw:}
+
+- ab und an verbessere ich etwas im Wiki
+
+sw:>
+
+- reiner Nutznießer der geballten Informationssammlung
+
+sw:+
+
+- es gibt bessere Quellen, aber die verrate ich euch nicht!
+
+sw:?
+
+- Welches Wiki? – Ich will die Doku wieder haben!
+
 #### Das Forum
 
 fo:}
@@ -60,6 +86,9 @@ fo:~
 
 - Reiner Menscheleiposter.
 
+fo:$
+
+- Ich bin eigentlich nur da, um mich oder meine Arbeit zu profilieren.
 
 #### Der Chat
 
@@ -70,6 +99,8 @@ ch:}
 ch:)
 
 - Regelmäßiger Besucher, AOP.
+
+> AOP?
 
 ch:|
 
@@ -83,13 +114,19 @@ ch:{
 
 - Chatter sind verwirrte Kick-Fanatiker, die für das Forum zu blöd sind.
 
+> Kick vs. Klick???
+
 ch:]
 
 - Nur bei den Eröffnungsfeierlichkeiten oder wenn eine Arthur-P-Abwehr koordiniert wird.
 
+> Arthur P.?
+
 ch:#
 
 - Ich bin Terrorkröte.
+
+> Was genau soll eine Terrorkröte sein?
 
 ch:°
 
@@ -264,7 +301,7 @@ as:#
 
 as:*
 
-- Markdown und Dialekte
+- Markdown und dessen Dialekte
 
 as:[
 
@@ -295,6 +332,16 @@ js:(
 js:{
 
 - JavaScript ist doch sowieso nur etwas für Klicki-Bunti-Webmons^Wmaster
+
+#### Mobile Endgeräte
+
+me:)
+
+- Ich liebe responsitive Seiten und versuche, nur solche zu erstellen.
+
+me:(
+
+- Wer die Dinger mit diesen Mikro-Displays nutzt, darf ruhig scrollen. Selbst schuld!
 
 #### Zugänglichkeit
 
