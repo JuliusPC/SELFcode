@@ -1,1 +1,457 @@
-# SELFcode
+# Selfcode
+
+## Die Spezifikation, Version 1.0
+### Community
+#### SELFHTML
+
+sh:}
+
+- Ich bin Stefan Münz.
+
+sh:)
+
+- Developer.
+
+sh:|
+
+- Featureartikelschreiber.
+
+sh:(
+
+- Ich habe nichts damit zu tun.
+
+#### Das Forum
+
+fo:}
+
+- Ich bin unter den Top-10. Mein Leben besteht im wesentlichen aus dem Forum. Mein monatliches Schreibaufkommen ist mit einem Berufsjournalisten vergleichbar.
+
+fo:)
+
+- Ich bin regelmäßiger Poster.
+
+fo:|
+
+- Ich komme gelegentlich und habe ein ausgewogenes Fragen-Antwort-Verhältnis.
+
+fo:(
+
+- Wenn ich Hilfe brauche, dann sicher nicht da.
+
+fo:{
+
+- Alles Idioten, Newbiehasser, Standardfetischisten, E-Mobber.
+
+fo:§
+
+- Ich komme nur, um meine Erfolge bei Gericht feiern zu lassen.
+
+fo:#
+
+- ANTWORTN ABA SChNELL!!!11
+
+fo:~
+
+- Reiner Menscheleiposter.
+
+
+#### Der Chat
+
+ch:}
+
+- Ich bin 24 Stunden im Chat. Ich habe kein Leben.
+
+ch:)
+
+- Regelmäßiger Besucher, AOP.
+
+ch:|
+
+- Gelegentlich.
+
+ch:(
+
+- Mir kommen die Leute etwas unfreundlich vor.
+
+ch:{
+
+- Chatter sind verwirrte Kick-Fanatiker, die für das Forum zu blöd sind.
+
+ch:]
+
+- Nur bei den Eröffnungsfeierlichkeiten oder wenn eine Arthur-P-Abwehr koordiniert wird.
+
+ch:#
+
+- Ich bin Terrorkröte.
+
+ch:°
+
+- Ich bin regelmäßiger Besucher, aber keiner will mir AOP geben.
+
+ch:~
+
+- Warum habe ich eigentlich einen AOP, wenn ich doch nie da bin?
+
+ch:?
+
+- Es gibt einen SelfChat?
+
+#### Treffen
+
+rl:}
+
+- Ich war fast immer dabei.
+
+rl:)
+
+- Regelmäßiger Besucher.
+
+rl:|
+
+- Ein oder zwei Besuche.
+
+rl:(
+
+- Noch nie dort.
+
+rl:°
+
+- Leider hatte ich noch nie Zeit.
+
+rl:?
+
+- Es gibt Treffen?
+
+### Browser
+#### Lieblingsbrowser
+
+br:$
+
+- IE-Benutzer.
+
+br:>
+
+- Gecko (Mozilla, etc.)
+
+br:<
+
+- Opera.
+
+br:^
+
+- Mozilla und Opera.
+
+br:&
+
+- Je nach Bedarf.
+
+br:µ
+
+- Links, Lynx, etc.
+
+br:]
+
+- Quelltextleser.
+
+br:\
+
+- Konqueror.
+
+br:~
+
+- andere.
+
+br:?
+
+- Duscholux.
+
+#### Internet Explorer
+
+ie:}
+
+- Ich bin absoluter Fan. Ich habe alle Sicherheitseinstellungen minimiert und vollstes Vertrauen. Ich liebe Microsoft. Alternative Browser sind nur für anarchistische Idioten.
+
+ie:)
+
+- Ich benutze den Internet Explorer, weil er der beste Browser ist.
+
+ie:|
+
+- Ich benutze ihn ohne irgendwelche Hintergedanken.
+
+ie:(
+
+- Ein schlechter Browser.
+
+ie:{
+
+- Dieses Stück Programmcode ist gemeingefährlich. Jeder, der so etwas wissentlich verbreitet, ist ein potentieller Schwerverbrecher.
+
+ie:%
+
+- Der Marktanteil ist - gemessen an der Qualität - nicht gerechtfertigt und gefährlich.
+
+#### Mozilla
+
+mo:}
+
+- Mozilla hat mein Leben verändert.
+
+mo:)
+
+- Mozilla ist der beste Browser.
+
+mo:|
+
+- Nicht schlecht, aber Opera ist besser.
+
+mo:(
+
+- Definitiv kein guter Browser.
+
+mo:{
+
+- Gutmensch-Browser für weltfremde Spinner.
+
+mo:?
+
+- Es heißt »Godzilla«.
+
+### Seitengestaltung
+
+#### Validator
+
+va:}
+
+- Der Validator ist mein Gott.
+
+va:)
+
+- Ich versuche, nur valide zu schreiben.
+
+va:|
+
+- Nach Möglichkeit.
+
+va:(
+
+- Warum sollte ich valide schreiben?
+
+va:{
+
+- Vorschriftenfanatiker, alle.
+
+va:?
+
+- Valiwas?
+
+#### Frames/Tabellen/CSS (Design-Elemente)
+
+de:>
+
+- CSS-Fanatiker. Tabellen sind böse, Frames gemeingefährlich.
+
+de:]
+
+- CSS!
+
+de:[
+
+- Tabellen aus Bequemlichkeit.
+
+de:<
+
+- Tabellen aus Überzeugung.
+
+de:/
+
+- Framefreund
+
+de:µ
+
+- Design? Da bin ich dagegen.
+
+de:?
+
+- Keine Ahnung.
+
+#### JavaScript
+
+js:}
+
+- JavaScript und DHTML sind die besten Erfindungen seit HTML und jede Seite sollte ein aufklappbares DHTML-Menü haben.
+
+js:)
+
+- JavaScript ist cool.
+
+js:|
+
+- Man kann viel sinnvolles mit JavaScript machen, man kann es aber auch mißbrauchen.
+
+js:(
+
+- JavaScript wird zu oft mißbraucht, daher ist eher davon abzuraten.
+
+js:{
+
+- JavaScript ist doch sowieso nur etwas für Klicki-Bunti-Webmons^Wmaster
+
+#### Zugänglichkeit
+
+zu:}
+
+- Alle Webmaster sollten dazu verpflichtet werden, die UNO sollte es zum Menschenrecht machen.
+
+zu:)
+
+- Wichtiges Ziel.
+
+zu:|
+
+- Sicher überlegenswert.
+
+
+zu:(
+
+- Naja...
+
+zu:{
+
+- Unsinn. Hauptsache, ich kann es sehen.
+
+zu:$
+
+- Mein Kunde bezahlt eben nicht dafür.
+
+zu:]
+
+- Ich bin Chräcker Heller. Meine Meinung lässt sich nicht in einem Satz zusammenfassen.
+
+#### Flash
+
+fl:}
+
+- Die Lösung aller Probleme!
+
+fl:)
+
+- Elegantes und effektives Werkzeug.
+
+fl:|
+
+- Es gibt viele sinnvolle Einsatzmöglichkeiten.
+
+fl:(
+
+- Flash-Skeptiker.
+
+fl:{
+
+- Ich hasse Flash. Es hat im Web nichts verloren, weg damit.
+
+### Serverseitige Sprachen
+#### Allgemein
+
+ss:}
+
+- Ich programmiere Online-Shops in zwei Stunden.
+
+ss:)
+
+- Guter Programmierer.
+
+ss:|
+
+- Ich kann kleinere Probleme lösen, bin aber kein Experte.
+
+ss:(
+
+- Ich kann aber kaum programmieren
+
+ss:{
+
+- Ich kenne immerhin den Begriff.
+
+ss:?
+
+- Was ist denn das schon wieder?
+
+#### Lieblingssprache
+
+ls:>
+
+- Perl (alles andere ist sowieso Kindergarten)
+
+ls:]
+
+- Perl.
+
+ls:[
+
+- PHP.
+
+ls:<
+
+- PHP, Perl ist etwas für hochnäsige Angeber.
+
+ls:$
+
+- ASP.
+
+ls:µ
+
+- Assembler.
+
+ls:/
+
+- JSP.
+
+ls:\
+
+- Coldfusion.
+
+ls:~
+
+- andere.
+
+ls:&
+
+- Je nach Bedarf.
+
+ls:#
+
+- HTML.
+
+ls:?
+
+- Ähm...
+
+## Veraltete Elemente
+
+Die hier aufgezählten Elemente gehören zwar zur offiziellen Spezifikation, werden  aber als veraltet eingestuft. Selfcode-Paarser sollteen sie aus Gründen dder  Abwäärttskomppatiibilität noch verstehen.
+
+## Verwendung
+### Umfang
+
+Es müssen nicht alle Elemente verwendet werden, es wird aber empfohlen, die verwendeten Elemente in der oben angegebenen Reihenfolge zu notieren.
+## Syntax
+
+Jedes Element des Codes ist exakt vier Zeichen lang, wobei die ersten beiden Zeichen das aus zwei Kleinbuchstaben bestehende Kürzel der Kategorie sind. Danach folgt ein Doppelpunkt sowie ein Zeichen, das weder eine Zahl noch ein Buchstabe und auch kein Leerzeichen sein darf.
+
+Es wird wegen der verbesserten Übersichtlichkeit empfohlen, zwischen zwei Elementen ein Leerzeichen zu setzen.
+
+## Referenz
+
+In Hinblick auf eventuelle Fragen ist es sinnvoll, zusätzlich zum Code auf diese Seite oder das Erstposting im SELFHTML Forum zu verweisen.
+
+## Orthografie
+
+Die ursprüngliche Schreibweise ist Selfcode, sämtliche weiteren Schreibweisen sowie die Bezeichnung SelfHTML-Code sind ausdrücklich gebilligt.
+
+## Beispielcode
+
+~~~~
+sh:( fo:) ch:) rl:( br:^ n4:& ie:% mo:) va:) de:> zu:) fl:( ss:( ls:]
+~~~~
