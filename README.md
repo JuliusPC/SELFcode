@@ -1,6 +1,6 @@
 # Selfcode
 
-## Die Spezifikation, Version 1.0
+## Die Spezifikation, _Entwurf_ für Version 2.0
 ### Community
 #### SELFHTML
 
@@ -42,9 +42,9 @@ sw:>
 
 - reiner Nutznießer der geballten Informationssammlung
 
-sw:+
+sw:<
 
-- es gibt bessere Quellen, aber die verrate ich euch nicht!
+- Es gibt bessere Quellen, aber die verrate ich euch garantiert nicht!
 
 sw:?
 
@@ -191,7 +191,7 @@ br:=
 
 br:|
 
--Firefx
+- Firefox
 
 br:°
 
@@ -233,7 +233,7 @@ br:?
 
 - Duscholux.
 
-> Referenz auf den Hersteller von _Dusch-Brausen_?
+> Referenz auf den gleichnamigen Hersteller von _Dusch-Brausen_?
 
 ### Seitengestaltung
 
@@ -293,7 +293,7 @@ de:?
 
 - Keine Ahnung.
 
-#### vereinfachte Auszeichnungssprachen
+#### Vereinfachte Auszeichnungssprachen
 
 as:#
 
@@ -323,11 +323,11 @@ js:)
 
 js:|
 
-- Man kann viel sinnvolles mit JavaScript machen, man kann es aber auch mißbrauchen.
+- Man kann viel Sinnvolles mit JavaScript machen, man kann es aber auch missbrauchen.
 
 js:(
 
-- JavaScript wird zu oft mißbraucht, daher ist eher davon abzuraten.
+- JavaScript wird zu oft missbraucht, daher ist eher davon abzuraten.
 
 js:{
 
@@ -341,7 +341,7 @@ me:)
 
 me:(
 
-- Wer die Dinger mit diesen Mikro-Displays nutzt, darf ruhig scrollen. Selbst schuld!
+- Wer diese neumodischen Dinger mit diesen Mikro-Displays nutzt, darf ruhig scrollen. Selbst Schuld!
 
 #### Zugänglichkeit
 
@@ -564,10 +564,11 @@ n4:°
 
 n4:#
 
-    SCHEIßBRAUSER!!!11
+-SCHEIßBRAUSER!!!11
+
 n4:~
 
--Dieser Religionskrieg ist doch lächerlich.
+- Dieser Religionskrieg ist doch lächerlich.
 
 n4:&
 
